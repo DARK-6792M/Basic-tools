@@ -1,2 +1,2 @@
-# Basic-tools
+# Basic-m
 Basic command for turmux
